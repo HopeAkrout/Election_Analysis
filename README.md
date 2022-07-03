@@ -20,23 +20,23 @@ A Coloraado Board of Elections employee has given the following tasks to complet
 #Election-Audit Results
 The analysis of the elction show that:
 -There were 369,711 votes cast in the election.
--The counties where votes were cast were:
+The counties where votes were cast were:
   - Arapahoe
   - Denver
   - Jefferson
--The voting results showed:
+The voting results showed:
   - Arapahoe tallied 24,801 votes cast, which is 6.7% of the total state-wide votes.
   - Denver tallied 306,055 votes cast, which is 82.8% of the total state-wide votes.
   - Jefferson tallied 38,855 votes cast, which is 10.5% of the total state-wide votes.
--The candidates were:
+The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
--The candidate results were:
+The candidate results were:
   - Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
   - Diana DeGette received 73.8% of the vote with 272,892 votes.
   - Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
--The winner of the election was:
+The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote with 272,892 votes.
 
 #Election-Audit Summary
