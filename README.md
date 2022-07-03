@@ -1,6 +1,6 @@
-#Election_Analysis
+# Election_Analysis
 
-##Project Overview
+## Project Overview
 
 A Coloraado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.
 
@@ -14,11 +14,11 @@ A Coloraado Board of Elections employee has given the following tasks to complet
 8. Calculate the percentage of votes each county.
 9. Determine which county had the largest turnout.
 
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software: Python 3.7.6, Visual Studio Code, 1.68.1
 
-##Election-Audit Results
+## Election-Audit Results
 The analysis of the elction show that:
 -There were 369,711 votes cast in the election.
 
@@ -45,7 +45,7 @@ The candidate results were:
 The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote with 272,892 votes.
 
-##Election-Audit Summary
+## Election-Audit Summary
 
 This script can be used as a template for upcoming elections of any type, from governor to state senator.  The aspect that makes it most useful is that there isn't a limit to the number of candidates or counties, the list of candidates and counties can change from list of raw results, and there will be no need to edit the script in such a case.  The only refactoring needed will be if the .csv results file changes the location of the data.  For example, if future data lists the candidate name in column A instead of C, then line 50 should adjust the row accordingly for the data to be pulled correctly.
 
